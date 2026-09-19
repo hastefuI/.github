@@ -11,6 +11,6 @@
 
 👋🏻 [Kaixo!](https://en.wikipedia.org/wiki/Basque_language) I am [hasteful](https://github.com/hastefuI) on GitHub.<br>
 🐇 hasteful • 𝕳𝖆𝖘𝖙𝖊𝖋𝖚𝖑 • /ˈheɪst.fəl/ (adj.) _proceeding apace under obligation of purpose._<br>
-🕯 Identity • Privacy • AppSec • Offensive Security Research • Agentic Workflows<br>
+🕯 Identity • Privacy • AppSec • Offensive Security Research • Undocumented Features • Agentic Workflows<br>
 ♥︎ OSS • ANSI+ASCII Art • TUI • Analog • Emoji Culture • World Wide Web • ChatOps • Sushi<br>
 🌐 [hasteful.org](https://hasteful.org?utm_source=github)
